@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
                             JSONObject jsonObjectQuocgia = jsonObjectWeather.getJSONObject("sys");
                             String Quocgia = jsonObjectQuocgia.getString("country");
                             txtQuocgia.setText(Quocgia);
-
+                            Log.d("Tuyet", Tenthanhpho);
 
 
                         } catch (JSONException e) {
