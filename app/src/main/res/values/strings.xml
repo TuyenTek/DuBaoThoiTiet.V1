@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dự Báo Thời Tiết</string>
+    <string name="tenthanhpho">Tên Thành Phố</string>
+    <string name="ok">OK</string>
+    <string name="city_state">City, State</string>
+    <string name="country_name">Tên Quốc Gia</string>
+    <string name="nhietdo">Nhiệt Độ</string>
+    <string name="trangthai">Trạng Thái</string>
+    <string name="doam">Độ Ẩm</string>
+    <string name="may">Mây</string>
+    <string name="gio">Gió</string>
+    <string name="ngaycapnhat">Ngày Cập Nhật</string>
+    <string name="cacngaytieptheo">Các Ngày Tiếp Theo</string>
+</resources>
